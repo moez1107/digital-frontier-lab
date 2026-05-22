@@ -1,0 +1,22 @@
+# ITnIS Consulting
+
+> Premium ICT & Information Security consultancy firm in Islamabad, Pakistan. Designing & Securing the Digital Future.
+
+## Pages
+- [Home](/): Overview of services, projects and AI security assessment
+- [About Us](/about-us): Company mission, vision, values and team
+- [Services](/services): Full catalogue of ICT and Information Security services
+- [Projects](/our-projects): Case studies across government, enterprise and hospitality
+- [Blog](/our-blogs): Insights on cybersecurity, ICT and compliance
+- [Contact](/contact-us): Office address, phones, email and contact form
+
+## Services
+- [ICT Consultancy](/services/ict-consultancy)
+- [Information Security Consultancy](/services/information-security-consultancy)
+- [Unified Communication](/services/unified-communication)
+- [Smart City / Building](/services/smart-city-building)
+- [Audits](/services/audits)
+- [Trainings](/services/trainings)
+- [Data Center Design](/services/data-center-design)
+- [ISO 27000 Compliance](/services/iso-27000-compliance)
+- [Physical Security & Access Control](/services/physical-security-access-control)
